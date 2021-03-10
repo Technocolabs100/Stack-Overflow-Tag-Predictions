@@ -46,5 +46,5 @@ You need to have installed following softwares and libraries in your machine bef
 2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, scipy.
 3. Word Cloud: https://pypi.org/project/wordcloud/
 
-## Authors
+## Author
 - Yasin Shah
