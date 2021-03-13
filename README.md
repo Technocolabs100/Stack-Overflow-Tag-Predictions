@@ -48,3 +48,17 @@ You need to have installed following softwares and libraries in your machine bef
 
 ## Author
 - Yasin Shah
+
+<h2>Contributors:</h2>
+
+### Credits goes to these people:✨
+
+<table>
+	<tr>
+		<td>
+   <a href="https://github.com/Technocolabs100/Stack-Overflow-Tag-Predictions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Technocolabs100/Stack-Overflow-Tag-Predictions" />
+</a>
+		</td>
+	</tr>
+</table>
